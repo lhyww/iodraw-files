@@ -197,9 +197,9 @@
           <mxGeometry x="423" y="384" width="101" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-113" value="IEC61850服务端" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="200" width="105" height="20" as="geometry" />
+          <mxGeometry x="115" y="200" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-116" value="IEC103协议" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-116" value="IEC103" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="175" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-117" value="MODBUS协议&lt;div&gt;RTU/TCP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
