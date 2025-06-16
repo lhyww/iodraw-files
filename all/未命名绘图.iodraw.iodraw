@@ -1,0 +1,268 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="wPRmdA6QCKMFBhJB_7ew">
+    <mxGraphModel dx="895" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-111" value="人机组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="140" width="102" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-109" value="通信组件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-76" value="Bare meta子系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="436" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-59" value="内核子系统&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="435" width="340" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.345;exitY=1.094;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="282" as="sourcePoint" />
+            <mxPoint x="750" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-11" value="应用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="19" y="252" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="426" as="sourcePoint" />
+            <mxPoint x="750" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-18" value="平台层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="19" y="392" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="586" as="sourcePoint" />
+            <mxPoint x="750" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-27" value="电源管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-29" value="内存管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-30" value="网络管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-31" value="进程管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-32" value="内核层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="19" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="590" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="651" as="sourcePoint" />
+            <mxPoint x="750" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-44" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="19" y="620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-48" value="变电站自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-49" value="交换机" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="24" y="100" width="220.00000000000003" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-50" value="工业自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-51" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-53" value="中断管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="476" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-54" value="文件管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="476" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-55" value="时间管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="476" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-56" value="外设管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="476" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-58" value="驱动子系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="436" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-57" value="驱动架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-60" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="619" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-61" value="内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="619" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-62" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="619" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-63" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="619" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-64" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="619" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-65" value="CACHE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="461" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-66" value="启动加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="461" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-67" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="551" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-68" value="CLOCK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="491" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-69" value="MMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="551" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-73" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="521" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-74" value="资源分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-75" value="访问控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="586" y="306" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-93" value="&lt;div&gt;数据交互&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ew9MYzDixZmb_uV6C3BT-100">
+          <mxGeometry width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-94" value="信号注册/链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew9MYzDixZmb_uV6C3BT-100">
+          <mxGeometry x="10" y="24" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-96" value="任务挂载监视" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew9MYzDixZmb_uV6C3BT-100">
+          <mxGeometry x="10" y="54" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-97" value="闭锁/告警处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew9MYzDixZmb_uV6C3BT-100">
+          <mxGeometry x="10" y="84" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-86" value="&lt;div&gt;系统管理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="296" width="170.5" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-87" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="329" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-88" value="信号管理" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="329" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-90" value="时间同步" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="358" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-91" value="文件上召/下载" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="388" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-92" value="系统调试" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="359" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-17" value="&lt;div&gt;平台管理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="296" width="81" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-77" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="327" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-80" value="事件录波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="357" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-82" value="定值参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="387" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-103" value="&lt;div&gt;数据交互&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="298" width="121" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-104" value="信号注册/链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="324" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-105" value="任务挂载监视" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="354" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-106" value="闭锁/告警处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="384" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-110" value="液晶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-113" value="IEC61850服务端" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="202" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-116" value="IEC103协议" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="172" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-117" value="MODBUS协议 RTU/TCP" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="234" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-118" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="175" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-120" value="PRINT" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="207" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-121" value="过程层通信组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="140" width="102" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-122" value="GOOSE" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="175" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-123" value="SV" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="207" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-124" value="应用组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="140" width="102" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-125" value="联闭锁" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="175" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-126" value="CCD" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="207" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-127" value="状态监测" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="240" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="160" as="sourcePoint" />
+            <mxPoint x="334" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-120">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="175" as="sourcePoint" />
+            <mxPoint x="408" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-133" value="智能终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="80" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-134" value="合并单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="40" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-136" value="间隔层保护/测控设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="40" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-138" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="96" y="130" as="sourcePoint" />
+            <mxPoint x="736" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
