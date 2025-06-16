@@ -194,13 +194,13 @@
           <mxGeometry x="423" y="384" width="101" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-113" value="IEC61850" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="201" width="75" height="20" as="geometry" />
+          <mxGeometry x="115" y="231" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-116" value="IEC103" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="176" width="75" height="20" as="geometry" />
+          <mxGeometry x="115" y="206" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-117" value="MODBUS" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="181" width="66" height="40" as="geometry" />
+          <mxGeometry x="204" y="211" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-120" value="PRINT" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="207" width="75" height="20" as="geometry" />
