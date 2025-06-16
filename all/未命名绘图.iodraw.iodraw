@@ -197,7 +197,7 @@
           <mxGeometry x="115" y="180" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-116" value="IEC103" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="155" width="75" height="20" as="geometry" />
+          <mxGeometry x="25" y="180" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-117" value="MODBUS" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="204" y="160" width="66" height="40" as="geometry" />
