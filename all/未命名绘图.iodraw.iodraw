@@ -71,7 +71,7 @@
           <mxGeometry x="19" y="620" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-48" value="变电站自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="20" width="120" height="30" as="geometry" />
+          <mxGeometry x="99" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-49" value="交换机" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="144" height="20" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="206" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-51" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320.5" y="60" width="74" height="50" as="geometry" />
+          <mxGeometry x="450" y="40" width="74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-53" value="中断管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="476" width="70" height="30" as="geometry" />
