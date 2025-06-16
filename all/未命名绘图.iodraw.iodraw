@@ -70,8 +70,8 @@
         <mxCell id="ew9MYzDixZmb_uV6C3BT-44" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="19" y="620" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-48" value="变电站自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-48" value="变电站监控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-50" value="工业自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="40" width="120" height="30" as="geometry" />
