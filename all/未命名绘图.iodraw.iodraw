@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ew9MYzDixZmb_uV6C3BT-111" value="公共组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="140" width="102" height="130" as="geometry" />
+          <mxGeometry x="313" y="140" width="102" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-109" value="通信组件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="170" height="130" as="geometry" />
@@ -205,9 +205,6 @@
         <mxCell id="ew9MYzDixZmb_uV6C3BT-117" value="MODBUS协议 RTU/TCP" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="234" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-118" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="320.5" y="175" width="75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-120" value="PRINT" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="207" width="75" height="20" as="geometry" />
         </mxCell>
@@ -231,12 +228,6 @@
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-127" value="状态监测" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="439.5" y="240" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-120">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413" y="175" as="sourcePoint" />
-            <mxPoint x="408" y="110" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-133" value="智能终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="80" width="75" height="30" as="geometry" />
