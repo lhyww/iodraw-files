@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-111" value="人机组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ew9MYzDixZmb_uV6C3BT-111" value="公共组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="140" width="102" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-109" value="通信组件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -231,12 +231,6 @@
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-127" value="状态监测" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="439.5" y="240" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-118">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="284" y="160" as="sourcePoint" />
-            <mxPoint x="334" y="110" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ew9MYzDixZmb_uV6C3BT-120">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
