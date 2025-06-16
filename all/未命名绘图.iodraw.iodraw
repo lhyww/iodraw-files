@@ -196,9 +196,6 @@
         <mxCell id="ew9MYzDixZmb_uV6C3BT-106" value="闭锁/告警处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423" y="384" width="101" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ew9MYzDixZmb_uV6C3BT-110" value="液晶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="60" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-113" value="IEC61850服务端" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="157" y="202" width="105" height="20" as="geometry" />
         </mxCell>
@@ -263,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew9MYzDixZmb_uV6C3BT-139" value="间隔层设备&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="-50" width="181" height="130" as="geometry" />
+          <mxGeometry x="540" y="-130" width="181" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
